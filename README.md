@@ -28,5 +28,5 @@ A journey-aware errand planner for Singapore public transport. Instead of findin
 
 ---
 
-📍 Singapore  
-🎓 NUS School of Computing
+ Singapore  
+ NUS School of Computing
