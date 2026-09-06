@@ -50,5 +50,4 @@ pandas · scikit-learn · SQLite · SQL Server · FTS5
 Applied AI · retrieval/search systems · automation · optimisation · data pipelines · product engineering
 
 ---
-
-📍 Singapore
+Singapore :) 
