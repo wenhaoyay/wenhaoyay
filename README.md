@@ -2,7 +2,7 @@
 
 **Penultimate-year Business Analytics undergraduate at the National University of Singapore (NUS), School of Computing.**
 
-I enjoy turning user and business requirements into practical technical solutions — from full-stack applications and automation to data, AI and game systems.
+I enjoy turning user and business requirements into practical technical solutions, from full-stack applications and automation to data, AI and game systems.
 
 My interests sit at the intersection of **software engineering, applied AI, analytics and product-focused development**.
 
