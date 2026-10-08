@@ -4,8 +4,6 @@
 
 I'm a penultimate-year Business Analytics undergraduate at the National University of Singapore, School of Computing. I build practical tools for evaluating AI systems, analysing experiments and solving optimisation problems, with the evidence behind each result made visible.
 
-[Portfolio](https://wenhao-site.pages.dev/) · [Résumé](https://wenhao-site.pages.dev/resume.pdf) · [LinkedIn](https://linkedin.com/in/simwenhao)
-
 ## Featured projects
 
 ### [Assay](https://github.com/wenhaoyay/assay) — AI evaluation & regression testing
